@@ -1,4 +1,4 @@
-package org.example.models;
+package org.example.desafio.contaBancaria.models;
 
 public class ContaCliente {
 

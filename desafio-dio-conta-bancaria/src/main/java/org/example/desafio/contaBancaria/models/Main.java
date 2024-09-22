@@ -1,6 +1,6 @@
-package org.example;
+package org.example.desafio.contaBancaria.models;
 
-import org.example.models.ContaCliente;
+import org.example.desafio.contaBancaria.models.ContaCliente;
 
 import java.util.InputMismatchException;
 import java.util.Scanner;
